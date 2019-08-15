@@ -1,0 +1,18 @@
+
+pending:call by ref and value
+prime nob,palindrome,factorial,armstrong nob
+data using test id
+why string is a class,string creation with new 
+how to create our own interface and why to create ?
+handling date in selenium 
+----------------------------------
+java tutorials for beginners
+completed: till 19 th video
+ --------------------------------
+
+
+
+
+
+
+

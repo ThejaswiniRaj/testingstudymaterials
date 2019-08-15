@@ -1,0 +1,60 @@
+
+website for practical learniung selenium:
+http://www.appliedselenium.com/
+----------------------------------
+
+ doubts:
+REst APIs,postman,JSON,API automation
+Practical examples:
+https://automationtalks.com
+
+ pending:
+
+1.selenium+jenkins+git
+2.why strings are immutable and final
+3.Exception handling
+4.how to write test results in excel
+call by reference
+
+ doubts:
+master /upstream branch creation in jenkins
+-----------------------------------------------------
+
+within next wednesday before april :
+
+
+1.complete understanding in java concepts
+   ++ selenium concepts revision
+1.end to end flow -->write in a notebook after clear idea
+---------------
+april :
+mini project start date ++ parallel API automation
+april 30th:mini project end date 
+--------------------------
+april 26th:
+
+19,20,27,28,29
+
+may 1,2,3:
+API automation by naveen 7 videos
+
+Within May 12th:
+  API automation 7 videos + revision +practice secnarios
+  Hashmaps pactice with data provider and other scenarios
+  selenium end-to-end flow
+------------------------------------------------------- 
+
+next:
+rest assured api automation
+----------------------------------------------------------------------------------------------------------------------------------------------
+   New plan after may 22nd:
+may 22nd: revision -->API automation GET and POST 
+may 23rd: small example try it by own 
+may 24th: delete and put call
+   APi automation connection with database
+----------------------------
+
+
+
+
+

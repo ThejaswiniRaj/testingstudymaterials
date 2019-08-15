@@ -1,0 +1,21 @@
+selenium with java 
+
+1.core java tutorials by naveen automation
+java collection tutorials
+2.java interview questions
+------------------------------------feb-25
+3.how to become genius in xpath
+4.selenium 3 web driver tutorials by naveen 
+-------------march 10th
+5.testNG framework with selenium
+6.learn hybrid framework with POM
+7.selenium grid architecture
+8.cucumber -jvm(BDD framework)
+9.maven proj
+10.selenium &automation interview prep
+10.GIT vs github
+11.Rest webservices  API automation
+-----------
+
+ others 
+1.protractor with jasmine
