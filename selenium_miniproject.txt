@@ -1,0 +1,10 @@
+best sites to automate:
+http://automationpractice.com/index.php
+https://phptravels.com/demo/
+Ref sites:
+https://www.softwaretestinghelp.com/ecommerce-testing/
+guide to write test cases:
+https://www.softwaretestinghelp.com/sample-test-cases-testing-web-desktop-applications/
+
+doubts:
+what is an interface? what are the interfaces used commonly in selenium projects?what are the userdefined interfaces?
